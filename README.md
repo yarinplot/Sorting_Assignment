@@ -1,5 +1,5 @@
 # Sorting Algorithm Performance Experiments
-**Student Name:** Yarin Plotnik, Shay Tidhar
+**Student Name:** Yarin Plotnik, Shay Tidhar 
 ## Overview
 This project measures and analyzes the runtime performance of different sorting algorithms across arrays of varying configurations (random vs. nearly sorted). 
 **Selected Algorithms Evaluated:**
